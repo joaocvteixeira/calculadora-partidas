@@ -7,7 +7,7 @@
 _Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no repositório dele para organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original._
  
 # Instruções para entrega
-## 1️⃣ Desafio Classificador de nível de Herói
+## 2️⃣ Calculadora de partidas Rankeadas
 
 **O Que deve ser utilizado**
 
